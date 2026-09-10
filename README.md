@@ -19,7 +19,6 @@ Sistema de agendamento de hotel desenvolvido em .NET 10 com MediatR, RabbitMQ, R
 
 - `Hestia.Domain` – Entidades POCOs, Enums, Interfaces
 - `Hestia.Application` – MediatR (Commands, Queries, Handlers, Validators, Behaviors)
-- `Hestia.Contracts` – Responses (DTOs de saída)
 - `Hestia.Infrastructure` – EF Core, RabbitMQ, Redis, Google
 - `Hestia.Api` – Controllers, Middleware
 - `Hestia.Worker` – Consumers RabbitMQ, Background Service
