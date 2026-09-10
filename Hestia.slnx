@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/backend/">
+    <Project Path="src/Backend/Hestia.Api/Hestia.Api.csproj" />
+    <Project Path="src/Backend/Hestia.Application/Hestia.Application.csproj" />
+    <Project Path="src/Backend/Hestia.Domain/Hestia.Domain.csproj" />
+    <Project Path="src/Backend/Hestia.Infrastructure/Hestia.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Shared/" />
+  <Folder Name="/tests/" />
+</Solution>
