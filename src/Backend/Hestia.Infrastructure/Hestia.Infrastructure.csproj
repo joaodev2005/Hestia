@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Hestia.Domain\Hestia.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

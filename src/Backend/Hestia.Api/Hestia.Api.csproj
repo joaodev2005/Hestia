@@ -15,4 +15,10 @@
     <Folder Include="Controllers\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\Shared\Hestia.Exception\Hestia.Exception.csproj" />
+    <ProjectReference Include="..\Hestia.Application\Hestia.Application.csproj" />
+    <ProjectReference Include="..\Hestia.Infrastructure\Hestia.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>
